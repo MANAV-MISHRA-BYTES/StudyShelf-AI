@@ -8,10 +8,9 @@ Instead of manually opening files to figure out what they contain, StudyShelf ex
 
 ## Demo
 
-![StudyShelf AI Demo](assets/studyshelf-demo.png)
+[![StudyShelf AI Demo](assets/studyshelf-demo.png)](https://drive.google.com/file/d/1q64ynhZF2pMHWX_bANhDKShb16rIvD0h/view?usp=sharing)
 
-The screenshot above shows the working application analyzing a study PDF and adding it to the organized shelf.
-
+Click the image above to watch the demo.
 ---
 
 ## The Problem
