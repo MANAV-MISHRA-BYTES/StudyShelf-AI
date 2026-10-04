@@ -39,7 +39,7 @@ Default server URL:
 
 ## Demo
 
-A short video demo is recommended for the Hacktoberfest submission.
+WILL UPLOAD!
 
 ## Challenge
 
